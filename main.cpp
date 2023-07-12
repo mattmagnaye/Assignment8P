@@ -1,4 +1,11 @@
-
+/*
+* Program: main.cpp (Assignment 8P: Chars and C-Strings)
+* Author: Matt Aaron Magnaye
+* Instructor: Professor David Harden
+* Date: 07/12/2023
+* Description: Implemented following functions tasked by Professor Harden.
+*
+*/
 
 #include <iostream>
 
